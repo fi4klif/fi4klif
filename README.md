@@ -2,10 +2,6 @@
 
 ### Software Engineering Student | Web Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fi4klif&label=Profile views&color=0e75b6&style=flat" alt="fi4klif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fi4klif" alt="fi4klif" /></a> </p>
-
 - 🔭 I'm currently working on **Building a custom integration between Telegram and Obsidian to streamline my workflow and knowledge management.**
 
 - 🌱 I'm currently learning **Deepening my expertise in the MERN stack (React, Node.js) and web development best practices.**
